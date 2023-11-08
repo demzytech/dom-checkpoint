@@ -1,0 +1,53 @@
+.product1{
+    padding: 1%;
+}
+#txt{
+    color: goldenrod;
+    padding: 0px 10px;
+}
+.btn1{
+    font-size: 30px;
+    border-radius: 10px;
+    gap: 8px;
+    display: flex;
+}
+
+#img1{
+    width: 200px;
+}
+
+.Total{
+    display: flex;
+    justify-content: space-between;
+}
+
+.totalnumber{
+    margin-top: 15px;
+    font-size: 200%;
+}
+
+.Shipping{
+    display: flex;
+    justify-content: space-between;
+}
+.btn1{
+    border-radius: 30px;
+    display: flex;
+    gap: 8px;
+    font-size: 20px;
+}
+.btn2{
+    border-radius: 30px;
+    display: flex;
+    gap: 8px;
+    font-size: 20px;
+    
+}
+.bod{
+    margin: 50px;
+    
+}
+
+.info{
+    padding-top: 2%; 
+}
